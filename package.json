@@ -1,0 +1,30 @@
+{
+  "name": "manladag-terminal-ui",
+  "version": "1.0.0",
+  "description": "manladag ui for terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zepoze/manladag-terminal-ui.git"
+  },
+  "author": "Zepoze",
+  "license": "SEE LICENSE IN ./LICENsE",
+  "bugs": {
+    "url": "https://github.com/Zepoze/manladag-terminal-ui/issues"
+  },
+  "homepage": "https://github.com/Zepoze/manladag-terminal-ui#readme",
+  "dependencies": {
+    "@manladag/lelscanv": "^1.0.0",
+    "@manladag/source": "^2.0.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.20",
+    "connection-tester": "^0.2.0",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.17"
+  }
+}
