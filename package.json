@@ -21,7 +21,7 @@
     "@manladag/source": "^2.0.0",
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.8.20",
-    "connection-tester": "^0.2.0",
+    "connection-tester": "^0.2.1",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
